@@ -4,8 +4,8 @@
 Darkbox Tool est un projet éducatif visant à simuler un audit de réseau interne (LAN) pour une entreprise souhaitant sécuriser son réseau internet. Ce projet utilise différentes bibliothèques pour analyser, exploiter et rapporter les différents événements collectés.
 
 ## Fonctionnalités principales
-- Analyse des événements réseau
-- Exploitation des vulnérabilités identifiées
+- Analyse des événements réseau 
+- Liste des vulnérabilités identifiées
 - Génération de rapports détaillés sur les événements collectés
 
 ## Installation
