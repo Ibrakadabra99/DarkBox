@@ -1,9 +1,3 @@
-# DarkBox
-Scan and Enumeration Tool
-Super, merci pour les informations. Voici un exemple de fichier README basé sur les détails que tu m'as fournis :
-
----
-
 # Darkbox Tool
 
 ## Description
