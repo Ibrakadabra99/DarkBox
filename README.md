@@ -15,15 +15,15 @@
 - Liste des vulnérabilités identifiées
 - Génération de rapports détaillés sur les événements collectés
 
-## Installation
+## 🛠️Installation
 
-### Prérequis
+### 🪡Prérequis
 - Disposer d'un OS Linux ou Windows
 - Accès à un LAN
 - Quelques librairies nécessaires :
     - pip install -r requirements.txt
 
-### Étapes d'installation
+### 👷 Étapes d'installation
 1. Clonez le dépôt du projet :
    git clone https://github.com/Ibrakadabra99/DarkboxTool.git
 
@@ -33,16 +33,17 @@
 3. Installez les dépendances requises :
    pip install -r requirements.txt
 
-## Utilisation
+## 💻Utilisation
 Pour utiliser Darkbox Tool, suivez les étapes ci-dessous :
 
 1. Ouvrez un prompt (invite de commande)
 2. Lancez le script Ibrakadabra.py que vous avez précédemment cloné ou collé sur votre pc
 3. Exploitez
 
+## 🖼️ Demonstration
 
 
-## Contact
+## 🤙Contact
 Pour toute question ou suggestion, n'hésitez pas à nous contacter :
 - Email : ibrahim.kamala@supdevinci-edu.fr
 ---
