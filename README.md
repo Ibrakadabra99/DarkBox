@@ -1,4 +1,4 @@
-# Darkbox Tool <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+# Darkbox Tool
 
 ## Description
 Darkbox Tool est un projet éducatif visant à simuler un audit de réseau interne (LAN) pour une entreprise souhaitant sécuriser son réseau internet. Ce projet utilise différentes bibliothèques pour analyser, exploiter et rapporter les différents événements collectés.
