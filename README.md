@@ -25,8 +25,7 @@
 
 ### 👷 Étapes d'installation
 1. Clonez le dépôt du projet :
-   git clone https://github.com/Ibrakadabra99/DarkboxTool.git
-
+   git clone (https://github.com/Ibrakadabra99/DarkBox.git)
 2. Accédez au répertoire du projet :
    cd DarkboxTool
 
